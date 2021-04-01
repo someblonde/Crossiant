@@ -13,3 +13,10 @@ p {
 footer {
   text-align: center;
 }
+
+.crossiant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
